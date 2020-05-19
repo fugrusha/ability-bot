@@ -1,4 +1,4 @@
-package org.dentago;
+package org.dentago.bot;
 
 import org.dentago.domain.Constants;
 import org.dentago.service.KeyboardService;

@@ -1,4 +1,4 @@
-package org.dentago;
+package org.dentago.bot;
 
 import org.telegram.abilitybots.api.bot.AbilityBot;
 import org.telegram.abilitybots.api.objects.Ability;
