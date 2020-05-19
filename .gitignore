@@ -1,6 +1,7 @@
 backup.json
 *.iml
-
+.idea/*
+test_dental_telebot*
 # Compiled class file
 *.class
 
